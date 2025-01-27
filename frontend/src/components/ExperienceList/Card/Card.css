@@ -1,0 +1,12 @@
+.background-icon-card {
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+
+.background-icon-card.react {
+  background-image: url('../../../assets/react.svg');
+}
+
+.background-icon-card.academic {
+  background-image: url('../../../assets/academic.svg');
+}
