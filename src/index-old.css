@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-roboto-mono: "Roboto Mono", monospace;
+  --font-roboto-condensed: "Roboto Condensed", sans-serif;
+
+  --code-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/images/background.png');
+  --code-image-without-blur: url('/images/background-without-blur.png');
+}
+
+body {
+  background-color: #232425;
+}
