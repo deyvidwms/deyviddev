@@ -60,7 +60,7 @@ const About = () => {
           {/* Left: title */}
           <div id="about-title" className="w-2/5 shrink-0">
             <h1 className="text-white text-7xl font-black font-inter uppercase leading-none">
-              About
+              About me
             </h1>
             <div className="w-16 h-1 bg-(--color-accent) mt-6" />
           </div>

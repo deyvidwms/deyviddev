@@ -1,5 +1,3 @@
-import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa6";
-
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 
